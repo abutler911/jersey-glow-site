@@ -142,7 +142,7 @@ getQuote().then((quote) => {
   if (quote.author == null) {
     return (author.innerHTML = `- Anonymous`);
   }
-  author.innerHTML = `- ${quote.author}`;
+  author.innerHTML = ` ${quote.author}`;
 });
 
 // Random before and after photo selection for the photo gallery section
