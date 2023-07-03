@@ -12,7 +12,6 @@ const photos = [
   "./public/imgs/Good before-afters/11.jpg",
   "./public/imgs/Good before-afters/12.png",
   "./public/imgs/Good before-afters/13.jpg",
-  "./public/imgs/Good before-afters/14.png",
   "./public/imgs/Good before-afters/15.jpg",
   "./public/imgs/Good before-afters/16.png",
   "./public/imgs/Good before-afters/17.jpg",
